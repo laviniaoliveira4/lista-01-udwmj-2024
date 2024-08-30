@@ -1,3 +1,1 @@
-Exercício I  
-###
-Usabilidade, Desenvolvimento Web, Mobile e Jogos
+Exercício I  - Usabilidade, Desenvolvimento Web, Mobile e Jogos
